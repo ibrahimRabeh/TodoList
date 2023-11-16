@@ -1,5 +1,8 @@
 const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
+var ghpages = require('gh-pages');
+
+ghpages.publish('dist', function(err) {});
 
 
 module.exports = {
@@ -55,3 +58,4 @@ module.exports = {
    
   ],
 };
+ghpages.publish(dir, callback);
