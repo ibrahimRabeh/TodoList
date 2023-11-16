@@ -56,7 +56,7 @@ eval("\n\nmodule.exports = function (i) {\n  return i[1];\n};\n\n//# sourceURL=w
   \****************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"src/mountains-6302023_1280.jpg\");\n\n//# sourceURL=webpack:///./src/mountains-6302023_1280.jpg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"src/mountains-6302023_1280.jpg\");\n\n//# sourceURL=webpack:///src/mountains-6302023_1280.jpg?");
 
 /***/ }),
 
@@ -160,13 +160,13 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 
 /***/ }),
 
-/***/ "./src/LifeSavers-Regular.ttf":
+/***/ "LifeSavers-Regular.ttf":
 /*!************************************!*\
   !*** ./src/LifeSavers-Regular.ttf ***!
   \************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"0742b47b85e260bb2ab4.ttf\";\n\n//# sourceURL=webpack:///./src/LifeSavers-Regular.ttf?");
+eval("module.exports = __webpack_require__.p + \"0742b47b85e260bb2ab4.ttf\";\n\n//# sourceURL=webpack:///LifeSavers-Regular.ttf?");
 
 /***/ })
 
