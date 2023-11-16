@@ -50,7 +50,7 @@ eval("\n\nmodule.exports = function (i) {\n  return i[1];\n};\n\n//# sourceURL=w
 
 /***/ }),
 
-/***/ "./src/mountains-6302023_1280.jpg":
+/***/ "src/mountains-6302023_1280.jpg":
 /*!****************************************!*\
   !*** ./src/mountains-6302023_1280.jpg ***!
   \****************************************/
