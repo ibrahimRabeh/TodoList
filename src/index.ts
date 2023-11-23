@@ -2,8 +2,7 @@ import "./style.scss";
 import { PopupTask, PopUpProject} from "./Popup";
 import { displayProjects, displayTasks } from "./display";
 import { ChangeToBold } from "./display";
-import backgroundImage from './mountains-6302023_1280.jpg';
-document.body.style.backgroundImage = `url(${backgroundImage})`;
+
 class Task{
     TaskTitle: string;
     Description: string;

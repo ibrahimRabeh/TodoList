@@ -1,4 +1,5 @@
 body {
+  background-color: rgb(51 65 85);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -11,16 +12,11 @@ body {
   overflow-y: auto;
   height: 100vh;
   width: 100vw;
-  font-family: 'LifeSavers', sans-serif;
+  font-family:'Courier New', Courier, monospace;
   font-size: 1em;
 }
 
-@font-face {
-  font-family: 'LifeSavers';
-  src: url('./LifeSavers-Regular.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
+
 #App {
   position: relative;
   display: flex;
@@ -129,7 +125,7 @@ body {
   border: 2px solid #000000;
   border-radius: 20%;
   transition: border-radius 0.5s ease;
-  padding: 5%;
+  padding: 3%;
   background-color: var(--DoneColor);
   
  
